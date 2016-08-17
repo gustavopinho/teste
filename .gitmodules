@@ -1,0 +1,3 @@
+[submodule "sub/crypt"]
+	path = sub/crypt
+	url = https://github.com/gustavopinho/crypt.git
